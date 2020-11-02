@@ -1,4 +1,4 @@
-package cn.lg;
+package cn.lg.others;
 
 /**
  * 生成id的方法
