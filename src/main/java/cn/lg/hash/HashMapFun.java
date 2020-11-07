@@ -1,9 +1,10 @@
 package cn.lg.hash;
 
-import cn.lg.hash.povo.User;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
 
-import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
+import cn.lg.hash.povo.User;
 
 public class HashMapFun {
     public static void main(String[] args) throws InterruptedException {
@@ -30,9 +31,10 @@ public class HashMapFun {
         for (int i = 0; i < 15; i++) {
             User user = new User();
             hongHei.put(user, "11");
+            
         }
 
-        ConcurrentHashMap<User, String> cMap = new ConcurrentHashMap<>();
+        // ConcurrentHashMap<User, String> cMap = new ConcurrentHashMap<>();
 
     }
 

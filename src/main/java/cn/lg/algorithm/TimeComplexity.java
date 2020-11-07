@@ -1,6 +1,5 @@
 package cn.lg.algorithm;
 
-import java.lang.reflect.Array;
 
 /**
  *  两个数组，一个数组A  一个数组B，打印B数组中在A数组中的出现的元素

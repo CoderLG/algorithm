@@ -1,7 +1,5 @@
 package cn.lg.sort;
 
-import org.aspectj.weaver.ast.Var;
-
 import java.util.Random;
 
 /**

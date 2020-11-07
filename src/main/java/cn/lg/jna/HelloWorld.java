@@ -1,4 +1,4 @@
-package lg.jna;
+package cn.lg.jna;
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;
