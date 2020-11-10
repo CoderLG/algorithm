@@ -1,4 +1,4 @@
-package cn.lg.sort;
+package cn.lg.zuo.sort;
 
 import java.util.Arrays;
 

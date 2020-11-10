@@ -1,4 +1,4 @@
-package cn.lg.sort;
+package cn.lg.zuo.sort;
 
 /**
  * 各种排序 被时代抛弃的排序： 冒泡排序（每次找一个放在最后） O（n*n） 选择排序（每次找一个放在最前） O(n*n)
